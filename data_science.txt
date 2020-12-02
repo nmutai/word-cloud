@@ -1,0 +1,81 @@
+SQL, Redshift, BigQuery, Tableau , version control, 
+R, Pandas, Malplotlib, Numpy
+SQL + R and/or Python
+Python, R, NumPy/SciPy/Pandas
+TensorFlow, PyTorch, Scikit Learn
+relational databases and SQL
+Python, R or other scripting languages, experience with SQL is a 
+Git, unit testing, Docker and cloud platforms
+R | SAS | Jamovi | PSPP | MatLab | Python | SQL | JASP
+C, C++, Java, JavaScript, R, Python, SQL, .
+data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, .
+SAS, R, SQL, SPSS, or Python
+Power BI.
+R, Python, Power BI, Excel, 
+Python and/or R.
+Python or R (Matlab, Tableau and others are a )
+(SQL Server, PostgreSQL or any other variant).
+R or Python, have experience with SQL a
+Strong SQL skills required. (we use SQL Server and PostgreSQL)
+linear/logistic regression, time series analysis, forecasting, hypothesis testing and econometric models.
+Python and/or R for data cleaning, processing, visualisation and statistical analysis.
+Strong Excel skills, for reporting and data visualisation where necessary.
+Strong knowledge of SQL
+Experience with data visualization and reporting tools (e.g. Looker, Jupyter Notebooks)
+Familiarity with statistical packages (e.g. R, Python)
+Experience with big data tools (e.g. Spark, Hive) is a 
+Experience with statistical software (i.e., R, Python, Julia, MATLAB, .)
+understanding of databases (i.e., SQL, NoSQL), machine learning libraries (TensorFlow, PyTorch, .), cloud platforms, distributed storage and processing of big data (Hadoop, Spark, .).
+Expertise and experience in Digital/Big Data Analytics/AI/Machine Learning:
+Expertise in Signal Processing, Control Systems, and Mechatronics
+Experience in Machine Learning algorithms (CNN, SVM, LSTM .)
+Respective programming knowledge of Python/R and SQL expertise
+R, SQL, Python, Spark, Hive
+R, Python, Julia, MATLAB, .), understanding of databases (i.e., SQL, NoSQL), machine learning libraries (TensorFlow, PyTorch, .), cloud platforms and distributed storage and processing of big data (Hadoop, Spark, .).
+PhD/Doctoral degree in Data Science, Computer Science, Computer Engineering, Statistics, Applied and Industrial Mathematics, Operations Research or equivalent practical experience.
+SQL + R and/or Python). MicroStrategy & Tableau
+R, Python and/or Tableau
+Python, R, Scala) and SQL
+NLP
+Python, H2O, R)
+Familiar with leading visualisation tools (e.g. PowerBI, Tableau, Qlikview)
+SQL and Python (R is a ).
+R (or Python)
+BI dashboard solutions such as Tableau or Microstrategy/PowerBI and SQL
+Power BI, Tableau, Microstrategy or  Datastudio.
+SQL, R or python)
+Tableau, Power BI, Microstrategy, or  Datastudio.
+R, Python 
+(Excel, SPSS, SAS .)
+Databases (SQL, MongoDB .)
+Reporting packages (Business Objects )
+ML
+Python or R
+Experienced in a data query language (e.g., MongoDB, SQL)
+SQL and scripting languages such as Python - including data-analysis and –visualization frameworks like pandas, numpy , matplitlob and seaborn 
+Strong SQL and Python programming skills
+Data visualisation tool like Tableau or Looker
+ETL tool like Jenkins or Airflow
+Proficiency in SQL and statistical programming in Python
+regressions, clustering, causal inference, advanced Bayesian techniques) to solve business and product problems
+SQL, Python, 
+SQL skills, with practical experience of big data tools (ideally BigQuery)
+Experience with version control systems (VCS) (e.g. Github)
+Tableau experience is a )
+(Spark, Python, Databricks platform)
+AWS/Azure
+SQL and SQL-like interfaces 
+Scala and Java 
+SQL and statistical programming in Python
+SQL (ideally PostgreSQL)
+Tealium or  Tag Manager, A/B Testing, SQL and R and/or Python
+Tag Management Systems, Tracking debugging, BigQuery, Firebase and/or  Analytics
+PowerBI, Tableau or Metabase 
+SQL and scripting languages such as Python - 
+ Suite,  Analytics, Facebook Ads Manager, FB insights, YouTube Analytics, Brandwatch, SocialBakers, Data Studio, Klipfolio or any other Data Visualization
+Python & SQL
+SQL (incl. aggregate functions, joins, .). 
+(Python, R) a 
+Python, SQL, and large scale processing engines (e.g. Apache Spark), 
+ML
+SQL skills, BI tool (Tableau, Periscope, Sisense, .), Python/R is a 
